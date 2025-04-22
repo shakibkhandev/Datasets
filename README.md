@@ -44,6 +44,24 @@ This repository contains various datasets for data science and machine learning 
   ```
   [Click to View](https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/diabetes.csv)
 
+
+### 4. Churn Modelling Dataset
+
+- Dataset Link:
+  ```
+  https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/Churn_Modelling.csv
+  ```
+  [Click to View](https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/Churn_Modelling.csv)
+
+
+### 4. Chai Sales Dataset
+
+- Dataset Link:
+  ```
+  https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/chai_sales.csv
+  ```
+  [Click to View](https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/chai_sales.csv)
+
 ## Usage
 
 1. Click on the "Click to View" link to preview the dataset
