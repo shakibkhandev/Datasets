@@ -156,6 +156,14 @@ This repository contains various datasets for data science and machine learning 
   ```
   [Click to View](https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/loan_prediction_dataset.csv)
 
+### 19. Parkinson's Disease Dataset
+
+- Dataset Link:
+  ```
+  https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/parkinsons_diesease_dataset.csv
+  ```
+  [Click to View](https://raw.githubusercontent.com/shakibkhandev/Datasets/main/csv/parkinsons_diesease_dataset.csv)
+
 ## Usage
 
 1. Click on the "Click to View" link to preview the dataset
